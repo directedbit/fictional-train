@@ -130,5 +130,9 @@ dmypy.json
 wandb/
 ddpm-cheese-32/
 ddpm-flowers-128/
+ddpm-celeb-128/
 ddpm-flowers-128-2/
+test*/
+data/
+unuseddata/
 ft/
